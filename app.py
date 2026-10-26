@@ -1,6 +1,6 @@
 """
 AI-Powered Product Insight Generator
-Module 1 - Prompt Engineering and API Integration (Project 2)
+Module 1 - Prompt Engineering and API Integration
 
 Skills practiced:
   - Prompt chaining (one step's output feeds the next step)
